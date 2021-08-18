@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mannkp
+- 👋 Hi, I’m @Mann_K_Pandya
 - 👀 I’m interested in coding and Gaming
 - 🌱 I’m currently learning html,c programming, java
 - 💞️ I’m looking to collaborate on ...
