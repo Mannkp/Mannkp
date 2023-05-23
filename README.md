@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mann_K_Pandya
 - 👀 I’m interested in coding and learnind new Skills!
-- 🌱 I’m currently learning web development(Html,CSS,JS) , python and java.
+- 🌱 I’m currently learning web development(Js and frameworks) , python and java.
 - 💞️ I’m looking to collaborate on any project, just let me have some days to learn technologies or programming lang. used, Thankyou
 - 📫 How to reach me; Linkedin: https://www.linkedin.com/in/mannkumar-k-pandya-750b4a20a/
 
